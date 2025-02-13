@@ -7,4 +7,4 @@ urlpatterns = [
 
     path('', views.index, name="index"),
     path('api/holidays/', HolidayListView.as_view(), name='holiday-list'),
-]`git
+]
