@@ -33,6 +33,9 @@ This is a Django-based web application that allows users to view, search, and fi
 ## Prerequisites
 - Python (>= 3.6)
 - Django (>= 4.0)
+- djangorestframework
+- dotenv
+- requests
 - Git
 - Calendarific API Key (Create an account at [Calendarific](https://calendarific.com/) to obtain one)
 
