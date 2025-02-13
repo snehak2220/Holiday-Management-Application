@@ -71,7 +71,7 @@ A Django-based application that integrates with the Calendarific API to help use
 
 ----
 ## 🔗 API Endpoints
-# /api/holidays/ - List holidays with filters:
+ /api/holidays/ - List holidays with filters:
 - country: ISO 3166-1 alpha-2 code (e.g., US, IN)
 - year: Year (e.g., 2025)
 - month: Month (e.g., 1 for January)
