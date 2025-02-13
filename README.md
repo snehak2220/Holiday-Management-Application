@@ -72,29 +72,29 @@ A Django-based application that integrates with the Calendarific API to help use
 ----
 ## 🔗 API Endpoints
 # /api/holidays/ - List holidays with filters:
--country: ISO 3166-1 alpha-2 code (e.g., US, IN)
--year: Year (e.g., 2025)
--month: Month (e.g., 1 for January)
--type: Holiday type (e.g., national, religious)
--date: Specific date (e.g., 2025-01-01)
+- country: ISO 3166-1 alpha-2 code (e.g., US, IN)
+- year: Year (e.g., 2025)
+- month: Month (e.g., 1 for January)
+- type: Holiday type (e.g., national, religious)
+- date: Specific date (e.g., 2025-01-01)
 
 ---
 ## 🛠️ Built With
--Django - Backend framework
--Django REST Framework - API implementation
--Calendarific API - Holiday data provider
--Bootstrap - Responsive frontend
--JavaScript - Dynamic interactivity
+- Django - Backend framework
+- Django REST Framework - API implementation
+- Calendarific API - Holiday data provider
+- Bootstrap - Responsive frontend
+- JavaScript - Dynamic interactivity
 
 ---
 ## 🤝 Contributing
 Contributions are welcome!
 
--Fork the repository.
--Create a new branch (feature/new-feature).
--Make your changes and commit (git commit -m "Add new feature").
--Push to the branch (git push origin feature/new-feature).
--Open a Pull Request.
+- Fork the repository.
+- Create a new branch (feature/new-feature).
+- Make your changes and commit (git commit -m "Add new feature").
+- Push to the branch (git push origin feature/new-feature).
+- Open a Pull Request.
 
 ---
 ## 📝 License
