@@ -1,0 +1,1 @@
+*.pyc\n__pycache__/\ndb.sqlite3\n.env\n/static/\nmedia/\nvenv/\n.env
